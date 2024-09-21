@@ -30,8 +30,8 @@ library
   exposed-modules:
       Data.Vector.Unboxing
       Data.Vector.Unboxing.Mutable
-  other-modules:
       Data.Vector.Unboxing.Internal
+  other-modules:
       Data.Vector.Unboxing.Instances
   hs-source-dirs:
       src
